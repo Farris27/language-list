@@ -475,7 +475,7 @@
   'sat' => 'santal',
   'sc' => 'sarde',
   'sas' => 'sasak',
-  'sdc' => 'Sassarese Sardinian',
+  'sdc' => 'Sassarese',
   'stq' => 'Saterland Frisian',
   'saz' => 'Saurashtra',
   'sly' => 'Selayar',
